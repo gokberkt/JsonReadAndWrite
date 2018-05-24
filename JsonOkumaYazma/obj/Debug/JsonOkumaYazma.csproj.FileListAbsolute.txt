@@ -1,0 +1,12 @@
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\bin\Debug\JsonOkumaYazma.exe.config
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\bin\Debug\JsonOkumaYazma.exe
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\bin\Debug\JsonOkumaYazma.pdb
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.csprojResolveAssemblyReference.cache
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.Form1.resources
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.Properties.Resources.resources
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.csproj.GenerateResource.Cache
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.csproj.CoreCompileInputs.cache
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.exe
+C:\Users\Gokberk\source\repos\JsonOkumaYazma\JsonOkumaYazma\obj\Debug\JsonOkumaYazma.pdb
